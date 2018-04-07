@@ -27,6 +27,8 @@ This package can be installed via [Pearl](https://github.com/pearl-core/pearl) s
 pearl install dot-gtk
 ```
 
+**Note**: The package will overwrite the file `~/.config/gtk-3.0/settings.ini`.
+
 Dependencies
 ------------
 GTK requires to have fonts installed into the system.
